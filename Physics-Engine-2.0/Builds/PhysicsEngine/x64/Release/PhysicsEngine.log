@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1635 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PhysicsEngine.vcxproj -> E:\Assessments (Year 2, Part 1)\Physics Engine\aieBootstrap-master\temp\PhysicsEngine\x64\Release\PhysicsEngine.exe

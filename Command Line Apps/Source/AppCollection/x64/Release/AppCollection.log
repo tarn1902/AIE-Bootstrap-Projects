@@ -1,0 +1,14 @@
+﻿  BattleArena.cpp
+  BattleArenaFunctions.cpp
+  BinaryExercise.cpp
+  BinaryExerciseFunctions.cpp
+  Fighter.cpp
+  GuessingGame.cpp
+  GuessingGameFunctions.cpp
+  main.cpp
+  TicTacToe.cpp
+  TicTacToeFunctions.cpp
+  Generating code
+  All 224 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AppCollection.vcxproj -> D:\AIEProjects\CPlusPlusProject\Source\x64\Release\AppCollection.exe

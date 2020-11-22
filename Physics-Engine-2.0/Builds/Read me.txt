@@ -1,0 +1,17 @@
+Instruction:
+Left and Right arrows: to navigate between each new object
+Insert key: Insert new object
+Delete key: delete selected object
+Space key: Select a object for joint (should show in purple)
+All other settings are in GUI for creating new objects and pausing physics
+Create Joint by selecting one object and navigate to another then insert joint
+Gravity and Timestep will be unchangable
+
+Improvments to be made:
+More objects types to use in scene
+More Joint types to use in scene
+Collision could be done on objects instead of physics scene
+Rigidbody could become optional attachment instead of inherited
+Better UI for app (Wanted to use diffrent method to click, but was not as effective)
+
+

@@ -1,0 +1,5 @@
+﻿  PhysicsScene.cpp
+E:\Assessments (Year 2, Part 1)\Physics Engine\aieBootstrap-master\PhysicsEngine\Rigidbody.h(49): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+E:\Assessments (Year 2, Part 1)\Physics Engine\aieBootstrap-master\PhysicsEngine\Rigidbody.h(50): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+E:\Assessments (Year 2, Part 1)\Physics Engine\aieBootstrap-master\PhysicsEngine\PhysicsScene.cpp(32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PhysicsEngine.vcxproj -> E:\Assessments (Year 2, Part 1)\Physics Engine\aieBootstrap-master\temp\PhysicsEngine\x64\Debug\PhysicsEngine.exe
